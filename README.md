@@ -9,3 +9,4 @@ In this project I learned a great amount about using Git, GitHub and how to use 
 
 TODO: Add CSS to site with my newfound knowledge!  - Done
 TODO: Play around with flexbox to align items better
+IDEA: Add nav bar to top using flexbox
